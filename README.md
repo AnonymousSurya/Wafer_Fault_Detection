@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 5. Run Application
 ```
-python app.py
+python application.py
 ```
 
 🔧 Built with
@@ -28,5 +28,5 @@ python app.py
 - Python 3.8
 - Machine learning
 - Scikit learn
-- 🏦 Industrial Use Cases
+  
 
