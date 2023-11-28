@@ -9,7 +9,7 @@ It undergoes many microfabrication processes, such as doping, ion implantation, 
 * Dataset is taken from Kaggle and stored in mongodb.
 * Performed Exploratory data analysis on the dataset.
 * Built components & pipelines in modular format. 
-* Used models such as: XGBClassifier, Random forest, SVC, GaussianNB & GradientBoostingClassifier prediction purpose.
+* Used models such as: XGBClassifier, Random forest, SVC, & GradientBoostingClassifier prediction purpose.
 * The XGBClassifier performed the best with an accuracy score of 83%.
 * Used Flask to build the web app.
 * Built CI/CD pipeline with GitHub actions & deployed it through AWS App Runner.
