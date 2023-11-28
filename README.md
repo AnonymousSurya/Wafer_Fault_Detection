@@ -3,7 +3,16 @@
 
 It undergoes many microfabrication processes, such as doping, ion implantation, etching, thin-film deposition of various materials, and photolithographic patterning. Finally, the individual microcircuits are separated by wafer dicing and packaged as an integrated circuit.
 
-#### Dataset is taken from Kaggle and stored in mongodb
+#### 
+### Task Performed:
+* The objective of this project is to determine whether a credit card default will occur or not.
+* Dataset is taken from Kaggle and stored in mongodb.
+* Performed Exploratory data analysis on the dataset.
+* Built components & pipelines in modular format. 
+* Used models such as: XGBClassifier, Random forest, SVC, GaussianNB & GradientBoostingClassifier prediction purpose.
+* The XGBClassifier performed the best with an accuracy score of 83%.
+* Used Flask to build the web app.
+* Built CI/CD pipeline with GitHub actions & deployed it through AWS App Runner.
 
 
 💿 Installing
@@ -28,5 +37,6 @@ python application.py
 - Python 3.8
 - Machine learning
 - Scikit learn
+- docker
   
 
