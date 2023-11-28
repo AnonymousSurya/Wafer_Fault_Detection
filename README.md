@@ -10,7 +10,7 @@ It undergoes many microfabrication processes, such as doping, ion implantation, 
 * Performed Exploratory data analysis on the dataset.
 * Built components & pipelines in modular format. 
 * Used models such as: XGBClassifier, Random forest, SVC, & GradientBoostingClassifier prediction purpose.
-* The XGBClassifier performed the best with an accuracy score of 83%.
+* The XGBClassifier performed the best with an accuracy score of 95%.
 * Used Flask to build the web app.
 * Built CI/CD pipeline with GitHub actions & deployed it through AWS App Runner.
 
@@ -38,5 +38,7 @@ python application.py
 - Machine learning
 - Scikit learn
 - docker
-  
+
+### Snapshot of the web app:
+![Screenshot (135)](https://github.com/AnonymousSurya/Wafer_Fault_Detection/assets/76435009/e89abb03-6758-4c8a-9b46-ad88e4402f64)
 
